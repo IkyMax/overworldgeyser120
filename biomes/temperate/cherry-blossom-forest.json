@@ -197,7 +197,7 @@
             "rotation": {
                 "yAxis": {
                     "min": 0,
-                    "max": 360,
+                    "max": 290,
                     "interval": 90,
                     "enabled": true
                 },
@@ -316,7 +316,7 @@
                 "enabled": true,
                 "yAxis": {
                     "enabled": true,
-                    "max": 360,
+                    "max": 315,
                     "min": 0,
                     "interval": 90
                 }
